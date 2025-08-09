@@ -5,7 +5,7 @@ import Navbar2 from './components/Navbar2/navbar2'
 import LandingPage from './pages/LandingPage/landingPage'
 import Footer from './components/Footer/footer'
 import { Routes, Route } from 'react-router-dom'
-import Signup from './components/SignUp/Signup'
+import Signup from './components/SignUp/signUp'
 import Login from './components/Login/login'
 import Feed from './components/Feed/feed';
 import Profile from './components/Profile/Profile';
